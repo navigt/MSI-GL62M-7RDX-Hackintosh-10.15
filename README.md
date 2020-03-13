@@ -26,7 +26,7 @@
 
 - 默认的ac3168无线网卡无解，无线必须更换网卡，我这里是用的免驱的`BCM94360CS2`，长度稍长，但能装得下。
 
-  ![](/Users/zyue/Documents/gl62m-hackintosh/pic/bcm94360.jpg)
+  ![](pic/bcm94360.jpg)
 
 # 关于EFI
 
